@@ -36,6 +36,7 @@ The population or number of prey (y0) is the lowest and the predators (y1) is th
 
 
 Is the system of ODE sensitive to initial condition? Explain.
+
 The difference between the graph for both graph is not very obvious,so the system of ODE is not sensitive to initial condition.
 
 -----------------------------------
