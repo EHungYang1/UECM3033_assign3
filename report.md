@@ -1,8 +1,8 @@
 UECM3033 Assignment #3 Report
 ========================================================
 
-- Prepared by: ** Put your name here**
-- Tutorial Group: T2/T3
+- Prepared by: E Hung Yang
+- Tutorial Group: T3
 
 --------------------------------------------------------
 
