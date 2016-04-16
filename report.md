@@ -26,6 +26,8 @@ Firstly i import the numpy, script,matplotlib.pyplot as plt. Then a self-defined
 
 
 Put your graphs here and explain.
+![Graph of y1 and y0 against t.png](Graph of y1 and y0 against t.png)
+![Graph of y1 against y0.png](Graph of y1 against y0.png)
 
 Is the system of ODE sensitive to initial condition? Explain.
 
