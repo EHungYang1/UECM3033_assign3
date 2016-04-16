@@ -31,6 +31,10 @@ Put your graphs here and explain.
 
 The population or number of prey (y0) is the lowest and the predators (y1) is the highest at the beginning. But then the predators was declined as there is lack of food(prey), so the prey able to increase their population. As the time increase, the number of prey will increases over time while the number of predators is decreasing. When the predator population decrease, the prey population will increase. This will continue in a cycle of growth and decline.
 
+![Graph of y1 and y0 against t 2.png](Graph of y1 and y0 against t 2.png)
+![Graph of y1 against y0 2.png](Graph of y1 against y0 2.png)
+
+
 Is the system of ODE sensitive to initial condition? Explain.
 
 -----------------------------------
